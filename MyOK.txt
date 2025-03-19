@@ -1,3 +1,7 @@
+! Title: Unk自用白名单规则
+! Version: 20250319
+! Homepage: https://github.com/RUnknown/-GitHub-/edit/master/MyOK.txt
+! by: RUnknown 
 ! -------https://github.com/Cats-Team/AdRules白名单Start------- !
 ! AdGuard
 @@||local.adguard.org^
